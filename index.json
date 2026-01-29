@@ -1,0 +1,32 @@
+{
+  "location": {
+    "region": "Galicia",
+    "city": "Santiago de Compostela",
+    "latitude": 42.8782,
+    "longitude": -8.5448,
+    "timezone": "Europe/Madrid"
+  },
+  "current": {
+    "temperature": ,
+    "windspeed": ,
+    "weathercode": 1,
+    "time": "2026-01-17T14:00"
+  },
+  "hourly": [
+    {
+      "time": "15:00",
+      "temperature": 19,
+      "rain": 10,
+      "weathercode": 2
+    }
+  ],
+  "daily": [
+    {
+      "day": "2026-01-18",
+      "min": 10,
+      "max": 20,
+      "rain": 3,
+      "weathercode": 3
+    }
+  ]
+}
