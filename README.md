@@ -45,10 +45,12 @@ https://api.open-meteo.com/v1/forecast
 
 ## 📁 Estructura del proyecto
 
+```text
+elTiempo/
 ├── index.html
 ├── styles.css
 └── script.js
-
+```
 
 El archivo script.js contiene toda la lógica de búsqueda, consumo de API y renderizado del clima.
 
