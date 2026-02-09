@@ -1,9 +1,9 @@
-🌦️ Aplicación del Clima
+## 🌦️ Aplicación del Clima
 
 Aplicación web sencilla que permite consultar el clima actual, el pronóstico por horas y por días de cualquier ciudad del mundo, utilizando la API de Open-Meteo.
 Está desarrollada con HTML, CSS y JavaScript puro, sin frameworks.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Búsqueda de clima por ciudad.
 
@@ -11,7 +11,7 @@ Búsqueda de clima por ciudad.
 
  Clima actual (temperatura y viento).
 
- Pronóstico de las próximas horas.
+Pronóstico de las próximas horas.
 
 Pronóstico para los próximos días.
 
@@ -20,7 +20,7 @@ Búsqueda con botón o tecla Enter.
  Soporte para múltiples países.
  
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 HTML5
 
@@ -35,7 +35,7 @@ Geocoding API
 Weather Forecast API
 
 
-📦 APIs utilizadas
+## 📦 APIs utilizadas
 Geocoding (buscar ciudad)
 https://geocoding-api.open-meteo.com/v1/search
 
@@ -43,8 +43,8 @@ Pronóstico del clima
 https://api.open-meteo.com/v1/forecast
 
 
-📁 Estructura del proyecto
-/
+## 📁 Estructura del proyecto
+
 ├── index.html
 ├── styles.css
 └── script.js
@@ -52,7 +52,7 @@ https://api.open-meteo.com/v1/forecast
 
 El archivo script.js contiene toda la lógica de búsqueda, consumo de API y renderizado del clima.
 
-⚙️ Cómo usar el proyecto
+## ⚙️ Cómo usar el proyecto
 
 Clona o descarga este repositorio https://github.com/Maria19761976/elTiempo.
 
@@ -64,7 +64,7 @@ Presiona Buscar o Enter.
 
 
 
-🧠 Funcionamiento general
+## 🧠 Funcionamiento general
 
 El usuario ingresa una ciudad.
 
@@ -81,26 +81,24 @@ Pronóstico por horas.
 Pronóstico diario.
 
 
-⚠️ Manejo de errores.
+## ⚠️ Manejo de errores.
 
 Ciudad no encontrada → mensaje de alerta.
 
 Error de red o API → mensaje de error en pantalla y consola.
 
-📦Uso de la IA
+## 📦Uso de la IA
 La IA fue empleada en las siguientes tareas:
 
-✍️Redacción y mejora de documentación.
+Redacción y mejora de documentación.
 
 Creación del README.
 
 Mejora de estructura del proyecto.
 
- Apoyo en la lógica de programación.
+Apoyo en la lógica de programación.
 
 Optimización de funciones JavaScript.
-
-Mejores prácticas en el uso de fetch y async / await.
 
 Resolución e identificacion de errores.
 
@@ -108,6 +106,6 @@ Identificación de errores comunes.
 
 Propuestas de soluciones y mejoras de legibilidad.
 
-📄 Licencia
+## 📄 Licencia
 
 Este proyecto es de uso libre para fines educativos y personales.
