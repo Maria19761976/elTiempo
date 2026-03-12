@@ -182,4 +182,26 @@ h2 {
 
 .cloud-carousel::before {
     left: 0;
-    background: linear-gradi}
+    background: linear-gradient(to right, #e9eef3, transparent);
+}
+
+.cloud-carousel::after {
+    right: 0;
+    background: linear-gradient(to left, #e9eef3, transparent);
+}
+
+@keyframes scrollClouds {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+/* ANIMATIONS */
+@keyframes slideDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+}
