@@ -114,4 +114,5 @@ function renderDaily(daily) {
         </span>
       </div>
     `;
- 
+  }
+}
